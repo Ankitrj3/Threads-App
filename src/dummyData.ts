@@ -103,7 +103,7 @@ export const dummyPosts: Post[] = [
   },
   {
     id: '7',
-    createdAt: '2024-05-01T15:30:00Z',
+    createdAt: '2025-05-01T15:30:00Z',
     content: "It's a new productivity app that helps teams collaborate better.",
     user_id: '1',
     user: dummyUsers[0],
@@ -113,7 +113,7 @@ export const dummyPosts: Post[] = [
   },
   {
     id: '8',
-    createdAt: '2024-05-01T16:00:00Z',
+    createdAt: '2025-05-01T16:00:00Z',
     content: 'The sunset looks incredible! What camera did you use?',
     user_id: '4',
     user: dummyUsers[3],
